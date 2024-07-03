@@ -33,7 +33,7 @@ int main(){
         }
         else
         printf("\nsorry you will out,try once more");
-    }7
+    }
     
     
 }
